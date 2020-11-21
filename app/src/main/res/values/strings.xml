@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hospital</string>
+    <string name="reale_hospital">Reale Hospital</string>
+    <string name="todo">TODO</string>
+    <string name="login">Login</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="email_or_phone_number">Email or Phone number</string>
+    <string name="retype_password">Retype password</string>
+    <string name="todo2">TODO</string>
+    <string name="enter_password">Enter password</string>
+</resources>
